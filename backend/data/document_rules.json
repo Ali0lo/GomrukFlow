@@ -1,0 +1,194 @@
+{
+  "jurisdiction": "Republic of Azerbaijan - Customs & Export Regulations",
+  "document_definitions": {
+    "AQTA_PHYTOSANITARY": {
+      "code": "08012",
+      "name_az": "Fitosanitar Sertifikatı (AQTA)",
+      "name_en": "Phytosanitary Certificate (Food Safety Agency of Azerbaijan)",
+      "issuing_authority": "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi (AQTA)",
+      "description_az": "Təzə meyvə, tərəvəz və bitki mənşəli xammal ixracı üçün karantin və zərərvericilərin olmadığını təsdiq edən məcburi sənəd.",
+      "description_en": "Mandatory document certifying that plants/plant products are free from quarantine pests.",
+      "is_mandatory_default": true,
+      "typical_validity_days": 14
+    },
+    "AQTA_FOOD_SAFETY": {
+      "code": "08013",
+      "name_az": "Qida Təhlükəsizliyi Sertifikatı (AQTA)",
+      "name_en": "Food Safety Certificate (AQTA)",
+      "issuing_authority": "AQTA",
+      "description_az": "Emal olunmuş qida məhsulları (şirələr, pastalar, mürəbbələr) üçün qida təhlükəsizliyi qeydiyyatı və uyğunluq sənədi.",
+      "description_en": "Certificate for processed food products verifying sanitary, hygienic and safety conformity.",
+      "is_mandatory_default": true,
+      "typical_validity_days": 30
+    },
+    "AQTA_VETERINARY": {
+      "code": "08011",
+      "name_az": "Baytarlıq Şəhadətnaməsi (AQTA)",
+      "name_en": "Veterinary Health Certificate",
+      "issuing_authority": "AQTA",
+      "description_az": "Heyvan və arıçılıq məhsulları (bal, mum) üçün baytarlıq təhlükəsizliyi sənədi.",
+      "description_en": "Veterinary certificate required for animal byproducts and honey.",
+      "is_mandatory_default": true,
+      "typical_validity_days": 10
+    },
+    "ORIGIN_CT1": {
+      "code": "08014",
+      "name_az": "Mənşə Sertifikatı Forma CT-1 (MDB ölkələri)",
+      "name_en": "Certificate of Origin Form CT-1 (CIS / Free Trade Area)",
+      "issuing_authority": "İqtisadiyyat Nazirliyi yanında Antiinhisar və İstehlak Bazarına Nəzarət Dövlət Xidməti",
+      "description_az": "MDB ölkələrinə (Rusiya, Qazaxıstan, Belarus və s.) ixrac zamanı gömrük rüsumundan 0% güzəşt əldə etmək üçün tələb olunan mənşə sənədi.",
+      "description_en": "Confirms Azerbaijani origin under the CIS Free Trade Agreement, entitling 0% preferential customs duty at destination.",
+      "is_mandatory_default": true
+    },
+    "ORIGIN_EUR1": {
+      "code": "08015",
+      "name_az": "Mənşə Sertifikatı EUR.1 / Forma A (Avropa İttifaqı)",
+      "name_en": "Movement Certificate EUR.1 / Form A (European Union)",
+      "issuing_authority": "Dövlət Gömrük Komitəsi / İqtisadiyyat Nazirliyi",
+      "description_az": "Avropa İttifaqı ölkələrinə (Almaniya, İtaliya və s.) ixracda preferensial gömrük rəsmiləşdirilməsi üçün təqdim edilən mənşə sertifikatı.",
+      "description_en": "Required for EU destinations to benefit from preferential tariff agreements or verify origin authenticity.",
+      "is_mandatory_default": true
+    },
+    "ORIGIN_GENERAL": {
+      "code": "08016",
+      "name_az": "Ümumi Formada Mənşə Sertifikatı (Form C / General)",
+      "name_en": "General Certificate of Origin (Form C)",
+      "issuing_authority": "İqtisadiyyat Nazirliyi",
+      "description_az": "Xüsusi preferensiya olmayan digər ölkələrə (BƏƏ, Səudiyyə Ərəbistanı və s.) ixrac üçün ümumi mənşə sənədi.",
+      "description_en": "Standard certificate of origin for non-preferential third-country markets.",
+      "is_mandatory_default": true
+    },
+    "AFLATOXIN_LAB_REPORT": {
+      "code": "08020",
+      "name_az": "Aflatoksin Sınaq Protokolu və Rəsmi Nəzarət Sənədi (Aİ üçün)",
+      "name_en": "Aflatoxin Laboratory Analysis & Official Certificate (EU Reg 2019/1793)",
+      "issuing_authority": "AQTA Mərkəzi Fitosanitar Laboratoriyası",
+      "description_az": "Avropa İttifaqına fındıq və qoz ixracında B1 və Ümumi Aflatoksin səviyyəsinin normada (max 4-10 μg/kg) olduğunu təsdiqləyən akkreditə olunmuş laboratoriya protokolu.",
+      "description_en": "Mandatory testing protocol for hazelnut exports into the European Union under Regulation (EU) 2019/1793.",
+      "is_mandatory_default": true
+    },
+    "COMMERCIAL_INVOICE": {
+      "code": "01011",
+      "name_az": "Beynəlxalq Qaimə-Faktura (Commercial Invoice)",
+      "name_en": "Commercial Invoice",
+      "issuing_authority": "İxracatçı Şirkət (Exporter)",
+      "description_az": "Malın adı, çəkisi, vahid qiyməti, ümumi dəyəri və çatdırılma şərtini (Incoterms) göstərən əsas maliyyə sənədi.",
+      "description_en": "Primary commercial document declaring transaction details, goods value, currency and Incoterms.",
+      "is_mandatory_default": true
+    },
+    "PACKING_LIST": {
+      "code": "01012",
+      "name_az": "Qablaşdırma Vərəqi (Packing List)",
+      "name_en": "Packing List",
+      "issuing_authority": "İxracatçı Şirkət (Exporter)",
+      "description_az": "Hər qutunun, paletin xalis (netto) və ümumi (brutto) çəkisini, qablaşdırma növünü təfərrüatlandıran sənəd.",
+      "description_en": "Details packages, box counts, net weight, tare and gross weight per pallet/container.",
+      "is_mandatory_default": true
+    },
+    "CMR_WAYBILL": {
+      "code": "03011",
+      "name_az": "Beynəlxalq Əmtəə-Nəqliyyat Qaiməsi (CMR)",
+      "name_en": "International Consignment Note (CMR / TIR)",
+      "issuing_authority": "Daşıyıcı Şirkət (Carrier / Logistika)",
+      "description_az": "Beynəlxalq avtomobil daşımalarında yükün təhvil verilməsini və marşrutunu təsdiq edən nəqliyyat qaiməsi.",
+      "description_en": "Contract of international carriage of goods by road.",
+      "is_mandatory_default": true
+    },
+    "EXPORT_CONTRACT": {
+      "code": "01021",
+      "name_az": "Xarici İqtisadi Ticarət Müqaviləsi (Export Contract)",
+      "name_en": "Foreign Trade Export Contract",
+      "issuing_authority": "Tərəflər (İxracatçı və Alıcı)",
+      "description_az": "Bank nəzarəti və gömrük dəyərinin müəyyənləşdirilməsi üçün təsdiqlənmiş ikitərəfli alqı-satqı müqaviləsi.",
+      "description_en": "Underlying bilateral purchase contract required for bank currency control and customs valuation.",
+      "is_mandatory_default": true
+    }
+  },
+  "destination_rules": [
+    {
+      "destination_zone": "EU",
+      "countries": ["Germany", "Italy", "France", "Netherlands", "Poland", "Spain", "Belgium", "Austria", "Almaniya", "İtaliya"],
+      "mandatory_documents": [
+        "COMMERCIAL_INVOICE",
+        "PACKING_LIST",
+        "CMR_WAYBILL",
+        "EXPORT_CONTRACT",
+        "ORIGIN_EUR1"
+      ],
+      "category_specific": {
+        "fresh_fruits": ["AQTA_PHYTOSANITARY"],
+        "fresh_vegetables": ["AQTA_PHYTOSANITARY"],
+        "nuts": ["AQTA_PHYTOSANITARY", "AFLATOXIN_LAB_REPORT"],
+        "dried_fruits": ["AQTA_PHYTOSANITARY"],
+        "processed_beverages": ["AQTA_FOOD_SAFETY"],
+        "processed_vegetables": ["AQTA_FOOD_SAFETY"],
+        "apiculture": ["AQTA_VETERINARY"]
+      },
+      "customs_note": "Aİ gömrüyündə fitosanitar və aflatoksin nəzarəti TRACES NT sistemi üzərindən əvvəlcədən bəyan edilməlidir. EUR.1 sertifikatı olmadıqda üçüncü ölkə standart tarifi (3.2% - 9.6%) tətbiq olunacaq."
+    },
+    {
+      "destination_zone": "CIS",
+      "countries": ["Russia", "Kazakhstan", "Belarus", "Uzbekistan", "Kyrgyzstan", "Rusiya", "Qazaxıstan"],
+      "mandatory_documents": [
+        "COMMERCIAL_INVOICE",
+        "PACKING_LIST",
+        "CMR_WAYBILL",
+        "EXPORT_CONTRACT",
+        "ORIGIN_CT1"
+      ],
+      "category_specific": {
+        "fresh_fruits": ["AQTA_PHYTOSANITARY"],
+        "fresh_vegetables": ["AQTA_PHYTOSANITARY"],
+        "nuts": ["AQTA_PHYTOSANITARY"],
+        "dried_fruits": ["AQTA_PHYTOSANITARY"],
+        "processed_beverages": ["AQTA_FOOD_SAFETY"],
+        "processed_vegetables": ["AQTA_FOOD_SAFETY"],
+        "apiculture": ["AQTA_VETERINARY"]
+      },
+      "customs_note": "MDB Azad Ticarət Zonası çərçivəsində Forma CT-1 mənşə sertifikatı təqdim olunduqda idxal gömrük rüsumu 0%-dir. Rusiya üçün 'Rosselxoznadzor' karantin tələbləri AQTA sertifikatında dəqiq göstərilməlidir."
+    },
+    {
+      "destination_zone": "GULF_MIDDLE_EAST",
+      "countries": ["United Arab Emirates", "UAE", "Saudi Arabia", "Qatar", "Kuwait", "BƏƏ", "Səudiyyə Ərəbistanı", "Dubai"],
+      "mandatory_documents": [
+        "COMMERCIAL_INVOICE",
+        "PACKING_LIST",
+        "CMR_WAYBILL",
+        "EXPORT_CONTRACT",
+        "ORIGIN_GENERAL"
+      ],
+      "category_specific": {
+        "fresh_fruits": ["AQTA_PHYTOSANITARY"],
+        "fresh_vegetables": ["AQTA_PHYTOSANITARY"],
+        "nuts": ["AQTA_PHYTOSANITARY"],
+        "dried_fruits": ["AQTA_PHYTOSANITARY"],
+        "processed_beverages": ["AQTA_FOOD_SAFETY"],
+        "processed_vegetables": ["AQTA_FOOD_SAFETY"],
+        "apiculture": ["AQTA_VETERINARY"]
+      },
+      "customs_note": "Körfəz ölkələrinə təzə meyvə-tərəvəz ixracında pestisid qalıqları protokolu və mənşə sertifikatının (Form C) Ərəbistan / BƏƏ konsulluq leqallaşdırması və ya apostil tələb oluna bilər."
+    },
+    {
+      "destination_zone": "DEFAULT",
+      "countries": [],
+      "mandatory_documents": [
+        "COMMERCIAL_INVOICE",
+        "PACKING_LIST",
+        "CMR_WAYBILL",
+        "EXPORT_CONTRACT",
+        "ORIGIN_GENERAL"
+      ],
+      "category_specific": {
+        "fresh_fruits": ["AQTA_PHYTOSANITARY"],
+        "fresh_vegetables": ["AQTA_PHYTOSANITARY"],
+        "nuts": ["AQTA_PHYTOSANITARY"],
+        "dried_fruits": ["AQTA_PHYTOSANITARY"],
+        "processed_beverages": ["AQTA_FOOD_SAFETY"],
+        "processed_vegetables": ["AQTA_FOOD_SAFETY"],
+        "apiculture": ["AQTA_VETERINARY"]
+      },
+      "customs_note": "Standart beynəlxalq ixrac tələbləri tətbiq olunur."
+    }
+  ]
+}
+

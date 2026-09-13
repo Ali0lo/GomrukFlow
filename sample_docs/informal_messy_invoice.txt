@@ -1,0 +1,13 @@
+Hesab faktura N 41
+12 noyabr 2025
+Gonderen: Quba Meyve Baglari MMC
+Voen: 1902847111
+Alıcı: Moscow Fresh Trade OOO, Rusiya Federasiyasi
+Catdirilma: Dəmiryolu ilə Moskvaya
+
+Mallar:
+1. Quba alması (qırmızı qış sortu, I sort) - 15000 kq, qiyməti 0.85 USD, cəmi 12750 USD
+2. Qax quru xurması (təbii quru, qutusuz) - 3000 kq, qiyməti 2.50 USD, cəmi 7500 USD
+
+Senedler: Faktura, CMR, AQTA fitosanitar arayışı
+

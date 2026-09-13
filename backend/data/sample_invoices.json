@@ -1,0 +1,205 @@
+{
+  "samples": [
+    {
+      "id": "sample-goychay-germany",
+      "title_az": "Göyçay Nar & Şirə İxracı (Almaniya / Aİ)",
+      "title_en": "Goychay Pomegranate & Juice to Germany (EU)",
+      "badge": "Aİ Bazarı / Almaniya",
+      "summary_az": "Göyçay rayonundan Almaniyanın Hamburq limanına təzə nar və şüşə qablarda 100% təbii nar şirəsi ixracı.",
+      "summary_en": "Export of fresh Goychay pomegranates and cold-pressed pure pomegranate juice to Hamburg, Germany.",
+      "invoice_meta": {
+        "invoice_number": "AZ-GCY-2025/084",
+        "invoice_date": "2025-10-18",
+        "exporter_name": "Göyçay Aqro-İxracat MMC",
+        "exporter_voen": "2301498111",
+        "exporter_address": "Heydər Əliyev pr. 45, Göyçay, Azərbaycan",
+        "consignee_name": "FrischeFrucht Import & Handel GmbH",
+        "consignee_address": "Grossmarkt Fruchtallee 12, 20097 Hamburg, Germany",
+        "destination_country": "Germany",
+        "destination_code": "DE",
+        "destination_zone": "EU",
+        "incoterms": "CIP Hamburg (Incoterms 2020)",
+        "currency": "EUR",
+        "transport_mode": "Avtomobil / Soyuduculu TIR (Reefer Truck)",
+        "border_customs": "Samur Gömrük Postu / Qırmızı Körpü"
+      },
+      "line_items": [
+        {
+          "item_no": 1,
+          "description": "Təzə Göyçay Narı (Gülöyşə sortu, I sort, təzə yığılmış, 400-600qr)",
+          "description_en": "Fresh Goychay Pomegranates (Guloysha variety, Grade 1, fresh harvest, 400-600g per fruit)",
+          "quantity": 20000,
+          "unit": "kq",
+          "unit_price": 1.45,
+          "total_price": 29000.0,
+          "packages": "1,000 karton qutu (taxta paletlərdə)",
+          "net_weight_kg": 20000,
+          "gross_weight_kg": 21400
+        },
+        {
+          "item_no": 2,
+          "description": "100% Təbii Qatqısız Nar Şirəsi (Birbaşa sıxılmış, şəkərsiz, Brix 22, 1L şüşə qab)",
+          "description_en": "100% Pure Direct-Pressed Pomegranate Juice (Unfermented, no added sugar, Brix 22, 1L glass bottles)",
+          "quantity": 6000,
+          "unit": "litr",
+          "unit_price": 2.20,
+          "total_price": 13200.0,
+          "packages": "500 karton yeşik (12 ədəd x 1L)",
+          "net_weight_kg": 6300,
+          "gross_weight_kg": 9100
+        }
+      ],
+      "provided_documents": [
+        "COMMERCIAL_INVOICE",
+        "PACKING_LIST",
+        "CMR_WAYBILL",
+        "EXPORT_CONTRACT",
+        "AQTA_PHYTOSANITARY",
+        "AQTA_FOOD_SAFETY"
+      ],
+      "missing_documents": [
+        "ORIGIN_EUR1"
+      ],
+      "demonstration_points": [
+        "Chapter 08 (Təzə meyvə: 0810.90.75.00) vs Chapter 20 (Emal olunmuş şirə: 2009.89.79.00) fərqləndirilməsi",
+        "Avropa İttifaqına ixracda EUR.1 Mənşə Sertifikatının çatışmadığı avtomatik xəbərdarlıq olunur (olmadıqda idxalçı 4% gömrük rüsumu ödəyəcək)",
+        "AQTA Fitosanitar və Qida Təhlükəsizliyi sertifikatları avtomatik qeyd olunur"
+      ],
+      "raw_text": "COMMERCIAL INVOICE #AZ-GCY-2025/084\nDate: 18.10.2025\nExporter: Göyçay Aqro-İxracat MMC, VÖEN: 2301498111, Göyçay, Azərbaycan\nBuyer: FrischeFrucht Import & Handel GmbH, Grossmarkt Fruchtallee 12, 20097 Hamburg, Germany\nDelivery Terms: CIP Hamburg (Incoterms 2020)\nTransport: Refrigerated TIR Truck (Mercedes 99-ZZ-412 / Trailer 99-ZA-811)\nCurrency: EUR\n\nGoods Description:\n1. Təzə Göyçay Narı (Gülöyşə sortu, I sort təzə yığım, 400-600qr) - 20,000 kq @ 1.45 EUR = 29,000.00 EUR\n2. 100% Təbii Nar Şirəsi (Qatqısız, əlavə şəkərsiz, Brix 22, 1L şüşə butulka) - 6,000 litr @ 2.20 EUR = 13,200.00 EUR\n\nTotal Invoice Amount: 42,200.00 EUR\nNet Weight: 26,300 kg | Gross Weight: 30,500 kg\nAttached Docs: Invoice, Packing List, CMR, AQTA Phyto Cert #AQTA-2025-0981"
+    },
+    {
+      "id": "sample-zaqatala-italy",
+      "title_az": "Zaqatala Fındıq İxracı (İtaliya / Ferrero Təchizat Zənciri)",
+      "title_en": "Zaqatala Hazelnuts to Italy (EU / Confectionery)",
+      "badge": "Aİ / Yüksək Riskli Aflatoksin Nəzarəti",
+      "summary_az": "Zaqatala rayonundan İtaliyanın Alba (Pyemont) qənnadı fabrikinə ləpələnmiş və qabıqlı fındıq ixracı.",
+      "summary_en": "Export of shelled hazelnut kernels and in-shell hazelnuts from Zaqatala to Piedmont, Italy.",
+      "invoice_meta": {
+        "invoice_number": "INV-ZQT-9921",
+        "invoice_date": "2025-11-04",
+        "exporter_name": "Zaqatala Fındıq Emalı və Ticarət ASC",
+        "exporter_voen": "3600287141",
+        "exporter_address": "Nizami küç. 18, Zaqatala, Azərbaycan",
+        "consignee_name": "Piemonte Dolciaria SpA",
+        "consignee_address": "Via Cuneo 42, 12051 Alba (CN), Italy",
+        "destination_country": "Italy",
+        "destination_code": "IT",
+        "destination_zone": "EU",
+        "incoterms": "FCA Zaqatala (Incoterms 2020)",
+        "currency": "EUR",
+        "transport_mode": "TIR Nəqliyyatı (Tranzit Türkiyə-İtaliya Ro-Ro)",
+        "border_customs": "Balakən / Mazımqara Gömrük Postu"
+      },
+      "line_items": [
+        {
+          "item_no": 1,
+          "description": "Ləpələnmiş Meşə Fındığı (Atababa sortu, kalibr 11-13mm, təmizlənmiş çərəzlik ləpə, nəmlik < 6%)",
+          "description_en": "Shelled Hazelnut Kernels (Atababa variety, caliber 11-13mm, dry raw kernels, humidity < 6%)",
+          "quantity": 18000,
+          "unit": "kq",
+          "unit_price": 6.80,
+          "total_price": 122400.0,
+          "packages": "36 big-bag kisə (500 kq hər biri)",
+          "net_weight_kg": 18000,
+          "gross_weight_kg": 18360
+        },
+        {
+          "item_no": 2,
+          "description": "Qabıqlı Təbii Meşə Fındığı (Qabıqlı çərəzlik fındıq, bütöv, nəmlik < 10%)",
+          "description_en": "Natural In-Shell Hazelnuts (Whole in hard woody shell, uncracked, humidity < 10%)",
+          "quantity": 4000,
+          "unit": "kq",
+          "unit_price": 3.10,
+          "total_price": 12400.0,
+          "packages": "160 jüt kisə (25 kq hər biri)",
+          "net_weight_kg": 4000,
+          "gross_weight_kg": 4120
+        }
+      ],
+      "provided_documents": [
+        "COMMERCIAL_INVOICE",
+        "PACKING_LIST",
+        "CMR_WAYBILL",
+        "EXPORT_CONTRACT",
+        "ORIGIN_EUR1",
+        "AQTA_PHYTOSANITARY"
+      ],
+      "missing_documents": [
+        "AFLATOXIN_LAB_REPORT"
+      ],
+      "demonstration_points": [
+        "Ləpələnmiş fındıq (0802.22.00.00) ilə Qabıqlı fındığın (0802.21.00.00) kritik fərqləndirilməsi",
+        "Avropa İttifaqının (EU Reg 2019/1793) tələbi: Akkreditə olunmuş Aflatoksin laboratoriya rəyi ÇATIŞMIR kimi qırmızı bayraqla göstərilir",
+        "Brokerə sərhəddə yükün saxlanılmaması üçün dərhal sınaq protokolunu tələb etmək xəbərdarlığı"
+      ],
+      "raw_text": "FAKTURA / INVOICE #INV-ZQT-9921\nTarix: 04.11.2025\nİxracatçı: Zaqatala Fındıq Emalı və Ticarət ASC (VÖEN: 3600287141, Zaqatala)\nAlıcı: Piemonte Dolciaria SpA, Via Cuneo 42, 12051 Alba (CN), Italy\nÇatdırılma: FCA Zaqatala\nValyuta: EUR\n\nMalların siyahısı:\n1. Ləpələnmiş Meşə Fındığı (Atababa növü, 11-13mm, təmizlənmiş ləpə, nəmlik 5.8%) - 18,000 kq @ 6.80 EUR = 122,400.00 EUR\n2. Qabıqlı Təbii Meşə Fındığı (Qabıqlı bütöv çərəzlik fındıq) - 4,000 kq @ 3.10 EUR = 12,400.00 EUR\n\nCəmi: 134,800.00 EUR\nQoşma sənədlər: Müqavilə #09-IT, CMR, Qaimə, EUR.1 sertifikatı, AQTA Fitosanitar arayışı."
+    },
+    {
+      "id": "sample-khachmaz-uae",
+      "title_az": "Xaçmaz Pomidor & Qax Quru Xurma (BƏƏ / Dubay)",
+      "title_en": "Khachmaz Tomatoes & Qax Dried Persimmons to UAE (Dubai)",
+      "badge": "Körfəz / BƏƏ Bazarı",
+      "summary_az": "Xaçmaz istixanalarında yetişdirilən premium çəhrayı pomidor və Qaxda günəşdə qurudulmuş xurmanın Dubaya hava yolu ilə ixracı.",
+      "summary_en": "Air-freight export of premium pink greenhouse tomatoes from Khachmaz and sun-dried persimmons from Qax to Dubai.",
+      "invoice_meta": {
+        "invoice_number": "EKO-UAE-552",
+        "invoice_date": "2025-11-20",
+        "exporter_name": "Xaçmaz Eko-Tərəvəz MMC",
+        "exporter_voen": "1802937401",
+        "exporter_address": "Xudat şossesi 12, Xaçmaz, Azərbaycan",
+        "consignee_name": "Gulf Fresh Food Trading LLC",
+        "consignee_address": "Central Fruit & Veg Market, Ras Al Khor, Dubai, UAE",
+        "destination_country": "United Arab Emirates",
+        "destination_code": "AE",
+        "destination_zone": "GULF_MIDDLE_EAST",
+        "incoterms": "CPT Dubai Airport (Incoterms 2020)",
+        "currency": "USD",
+        "transport_mode": "Hava Nəqliyyatı (Silk Way West Airlines / Heydər Əliyev Beynəlxalq Hava Limanı)",
+        "border_customs": "Hava Nəqliyyatında Baş Gömrük İdarəsi (Bakı)"
+      },
+      "line_items": [
+        {
+          "item_no": 1,
+          "description": "Təzə İstixana Pomidoru (Çəhrayı 'Pink Paradise' növü, I dərəcəli, təzə)",
+          "description_en": "Fresh Greenhouse Tomatoes (Pink Paradise variety, Grade 1, fresh harvest)",
+          "quantity": 14000,
+          "unit": "kq",
+          "unit_price": 1.60,
+          "total_price": 22400.0,
+          "packages": "2,000 karton qutu (7 kq)",
+          "net_weight_kg": 14000,
+          "gross_weight_kg": 15200
+        },
+        {
+          "item_no": 2,
+          "description": "Qurudulmuş Qax Şərq Xurması (Təbii günəşdə qurudulmuş, bütöv, şəkərsiz, ağ unlu səth)",
+          "description_en": "Sun-Dried Qax Persimmons (Naturally sun-dried whole persimmons, no sugar added)",
+          "quantity": 4000,
+          "unit": "kq",
+          "unit_price": 3.80,
+          "total_price": 15200.0,
+          "packages": "800 karton qutu (5 kq)",
+          "net_weight_kg": 4000,
+          "gross_weight_kg": 4350
+        }
+      ],
+      "provided_documents": [
+        "COMMERCIAL_INVOICE",
+        "PACKING_LIST",
+        "EXPORT_CONTRACT",
+        "AQTA_PHYTOSANITARY"
+      ],
+      "missing_documents": [
+        "ORIGIN_GENERAL",
+        "CMR_WAYBILL"
+      ],
+      "demonstration_points": [
+        "Qurudulmuş xurmanın (0813.40.95.00) təzə xurma (0810.70.00.00) ilə səhv salınmasının qarşısını almaq",
+        "BƏƏ üçün Ümumi Formada Mənşə Sertifikatının (Form C) çatışmadığı bildirilir",
+        "Hava nəqliyyatı üçün AWB (Air Waybill) / Nəqliyyat qaiməsinin daxil edilməsi tövsiyəsi"
+      ],
+      "raw_text": "COMMERCIAL INVOICE #EKO-UAE-552\nDate: 20.11.2025\nShipper: Xaçmaz Eko-Tərəvəz MMC, VÖEN 1802937401, Khachmaz, Azerbaijan\nConsignee: Gulf Fresh Food Trading LLC, Central Fruit & Veg Market, Dubai, UAE\nTerms: CPT Dubai International Airport\nCurrency: USD\n\nItems:\n1. Təzə İstixana Pomidoru (Çəhrayı Pink Paradise, 1-ci sort) - 14,000 kq @ 1.60 USD = 22,400.00 USD\n2. Qurudulmuş Qax Xurması (Təbii günəş qurusu, bütöv) - 4,000 kq @ 3.80 USD = 15,200.00 USD\n\nTotal: 37,600.00 USD\nNet: 18,000 kg | Gross: 19,550 kg\nDocs included: Commercial Invoice, Packing List, AQTA Phyto Certificate #2025-1104"
+    }
+  ]
+}
+

@@ -1,0 +1,34 @@
+FAKTURA / INVOICE #INV-ZQT-9921
+Tarix / Date: 04.11.2025
+İxracatçı / Shipper: Zaqatala Fındıq Emalı və Ticarət ASC
+VÖEN / Tax ID: 3600287141
+Ünvan: Nizami küç. 18, Zaqatala, Azərbaycan
+Alıcı / Importer: Piemonte Dolciaria SpA
+Ünvan: Via Cuneo 42, 12051 Alba (CN), Italy
+Çatdırılma Şərti / Incoterms: FCA Zaqatala (Incoterms 2020)
+Nəqliyyat / Mode: TIR Nəqliyyatı (Tranzit Türkiyə-İtaliya Ro-Ro)
+Valyuta / Currency: EUR
+
+MALLARIN SİYAHISI / PARTICULARS:
+1. Ləpələnmiş Meşə Fındığı (Atababa sortu, kalibr 11-13mm, təmizlənmiş çərəzlik ləpə, nəmlik 5.8%)
+   Miqdar: 18,000 kq @ 6.80 EUR = 122,400.00 EUR
+   Qablaşdırma: 36 big-bag kisə (500 kq)
+   Netto: 18,000 kq | Brutto: 18,360 kq
+
+2. Qabıqlı Təbii Meşə Fındığı (Qabıqlı bütöv çərəzlik fındıq, nəmlik < 10%)
+   Miqdar: 4,000 kq @ 3.10 EUR = 12,400.00 EUR
+   Qablaşdırma: 160 jüt kisə (25 kq)
+   Netto: 4,000 kq | Brutto: 4,120 kq
+
+CƏMİ MƏBLƏĞ / TOTAL: 134,800.00 EUR
+Cəmi Netto: 22,000 kq | Cəmi Brutto: 22,480 kq
+
+Qoşma Sənədlər:
+- Müqavilə #09-IT
+- CMR #492811
+- Qaimə-Faktura #INV-ZQT-9921
+- Qablaşdırma Vərəqi #PL-9921
+- Mənşə Sertifikatı EUR.1 #AZ-A-09921
+- AQTA Fitosanitar Sertifikatı #AQTA-FIT-8821
+*(DİQQƏT: Aflatoksin Laboratoriya Sınaq Protokolu hələ təqdim edilməyib!)*
+
